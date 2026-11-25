@@ -1,0 +1,35 @@
+{
+  "companies": [
+    {
+      "id": "bdfLlYRxrGfg7-Zt",
+      "companyName": "Rockstar",
+      "email": "gta@gmail.com",
+      "passwordHash": "06b9a6eacd7a77b9361123fd19776455eb16b9c83426a1abbf514a414792b73f"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "TypX9hkYDGoVe7ba",
+      "companyId": "bdfLlYRxrGfg7-Zt",
+      "companyName": "Rockstar",
+      "title": "Sviluppatore GTA7",
+      "description": "Contratto fino al 2090",
+      "createdAt": "2026-11-25T20:14:52.509827"
+    }
+  ],
+  "applications": [
+    {
+      "id": "tv2tjh_LXPivaVGT",
+      "jobId": "TypX9hkYDGoVe7ba",
+      "firstName": "Enrico",
+      "lastName": "Papi",
+      "email": "auto@gmail.com",
+      "cvFileName": "CV_Valentino_Rossi.pdf",
+      "cvUrl": "/uploads/20-1IZmI8Xk50ef9_CV_Valentino_Rossi.pdf",
+      "createdAt": "2026-11-25T20:16:07.458150"
+    }
+  ],
+  "tokens": {
+    "rMq16BO6qAALaNGPYs1kst4LZ98xO6zE": "bdfLlYRxrGfg7-Zt"
+  }
+}
